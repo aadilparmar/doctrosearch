@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/doctrosearch/static/css/main.a3f5c4ed.css",
+    "main.css": "/doctrosearch/static/css/main.bb50ce27.css",
     "main.js": "/doctrosearch/static/js/main.a5186009.js",
     "static/js/453.62be583b.chunk.js": "/doctrosearch/static/js/453.62be583b.chunk.js",
     "static/media/doctroHeader.png": "/doctrosearch/static/media/doctroHeader.76fdbb9d66548aef8bad.png",
@@ -9,12 +9,12 @@
     "static/media/doctor2.jpg": "/doctrosearch/static/media/doctor2.50e90dc2e28714e3a3f4.jpg",
     "static/media/physio.jpg": "/doctrosearch/static/media/physio.552230c30ba02b798ccb.jpg",
     "index.html": "/doctrosearch/index.html",
-    "main.a3f5c4ed.css.map": "/doctrosearch/static/css/main.a3f5c4ed.css.map",
+    "main.bb50ce27.css.map": "/doctrosearch/static/css/main.bb50ce27.css.map",
     "main.a5186009.js.map": "/doctrosearch/static/js/main.a5186009.js.map",
     "453.62be583b.chunk.js.map": "/doctrosearch/static/js/453.62be583b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3f5c4ed.css",
+    "static/css/main.bb50ce27.css",
     "static/js/main.a5186009.js"
   ]
 }
